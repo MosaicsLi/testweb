@@ -1,0 +1,32 @@
+.card-margin {
+  text-align: center;
+  border-radius: 10px;
+  margin: 1.5rem auto 1rem;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.3);
+}
+
+.footer {
+  background-color: white;
+  padding: 3% 15% 3%;
+  margin: auto;
+  width: 100%;
+}
+
+.header {
+  margin: auto;
+  padding: 8px 16px;
+}
+.edit{
+  width: 50%;
+  height: 10vh;
+  text-align: center;
+  display: flex;
+  border-radius: 10px;
+  margin: 1.5rem auto 1rem;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.3);
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
